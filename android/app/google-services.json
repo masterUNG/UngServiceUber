@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469959363091",
+    "project_id": "ungserviceuber",
+    "storage_bucket": "ungserviceuber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469959363091:android:d9cefc3c7695b43c550de6",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungseviceuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469959363091-q6beuvb24tflmlqrqdfhhcsdc91fg7mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooge2zuLutwWuXQUMy8-ldb3sSn4EsP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469959363091-q6beuvb24tflmlqrqdfhhcsdc91fg7mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
